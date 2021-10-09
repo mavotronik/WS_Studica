@@ -1,2 +1,2 @@
 # WS_Studica
-Software and code fors studica robots
+Software and code for studica robots
